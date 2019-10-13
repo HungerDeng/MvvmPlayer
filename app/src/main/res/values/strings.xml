@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvmPlayer</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+
+</resources>
